@@ -10,8 +10,9 @@ The following python libraries are required for the code to run:
 - langchain, langchain-community, langchainhub, langchain-chroma
 - nltk
 - transformers
-- streamlit, streamlit-chat
 - llamaapi
+- streamlit, streamlit-chat
+
 
 ## Files and Folders
 - [project_docs](project_docs): Contains all the PDFs to be vectorised and used for context
