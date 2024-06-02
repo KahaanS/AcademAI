@@ -2,7 +2,7 @@
 (NLP Project – Kahaan Shah & Suyog Joshi)
 
 ## About
-This is a Llama based, context-aware chatbot that uses academic policy documents from Ashoka University to answer questions. The chatbot is history-aware as well.
+This is a Llama-based, context-aware chatbot using RAG and [LlamaAPI](https://www.llama-api.com/) that uses academic policy documents from Ashoka University to answer questions. The chatbot is history-aware as well.
 
 ## Dependencies
 The following python libraries are required for the code to run:
